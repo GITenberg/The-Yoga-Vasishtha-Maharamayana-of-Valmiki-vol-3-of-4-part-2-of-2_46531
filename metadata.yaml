@@ -1,14 +1,13 @@
 _repo: The-Yoga-Vasishtha-Maharamayana-of-Valmiki-vol-3-of-4-part-2-of-2_46531
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Mitra, Vihari-Lala
     gutenberg_agent_id: '43834'
     url: http://www.gutenberg.org/2009/agents/43834
 covers:
-- cover_type: archival
-  image_path: 46531/46531-h/images/title.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Valmiki
@@ -17,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7984
     wikipedia: http://en.wikipedia.org/wiki/Valmiki
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46531#The-Yoga-Vasishtha-Maharamayana-of-Valmiki-vol-3-of-4-part-2-of-2
 gutenberg_issued: '2014-08-08'
 gutenberg_type: Text
 identifiers:
